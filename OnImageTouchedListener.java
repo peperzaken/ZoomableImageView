@@ -1,3 +1,4 @@
+package com.laurencedawson.zoomableimageview;
 /*
  * Copyright 2012 Laurence Dawson
  *
